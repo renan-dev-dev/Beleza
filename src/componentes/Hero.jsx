@@ -1,6 +1,6 @@
 import { IconPlayerPlay } from '@tabler/icons-react';
 import caImage from '../assets/fsafefw.jpg';
-import bgImage from '../assets/fot.png'; // importe sua imagem de fundo
+import bgImage from '../assets/imgh.avif'; // importe sua imagem de fundo
 
 const Hero = () => {
   return (
