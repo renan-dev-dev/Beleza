@@ -1,9 +1,9 @@
 import React from 'react'
 
 import foto1 from '../assets/gseeef.jpg'
-import foto2 from '../assets/imgh.avif'
-import foto3 from '../assets/sa1.jpeg'
-import pl4 from '../assets/pl4.png'
+import foto2 from '../assets/fot.png'
+import foto3 from '../assets/curve1.jpg'
+import pl4 from '../assets/fot.png'
 
 const Sobre = () => {
   return (
